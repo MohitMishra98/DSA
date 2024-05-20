@@ -37,6 +37,7 @@ public class TypeConversion {
         System.out.println(number);
 
 
+        sc.close();
     }
     
 }
