@@ -1,3 +1,4 @@
+package Loops;
 public class Practice3 {
     public static void main(String args[]){
         int n = 7576677; // num
