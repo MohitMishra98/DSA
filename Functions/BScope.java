@@ -11,7 +11,7 @@ public class BScope {
         System.out.println(p); // no error
         //System.out.println(a);
         // this will give an error because a is in the scope of that code
-        // and cannot be accessed outside that code
+        // and cannot be accessed outside that code A
     }
     
 }
