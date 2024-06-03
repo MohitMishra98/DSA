@@ -12,7 +12,6 @@ public class Arrays9 {
         int numbers[] = {95,96,97,98,99};
 
         pairs(numbers);
-
     }
     
 }
