@@ -13,7 +13,7 @@ public class Practice1 {
         }
     }
     public static void main(String args[]){
-        int numbers[] = {2,4,6,8,10};
+        int numbers[] = {90,91,92,93,94,95};
 
         subArray(numbers);
     }
