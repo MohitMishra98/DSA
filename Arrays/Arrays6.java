@@ -1,3 +1,4 @@
+package Arrays;
 public class Arrays6 {
 
     public static int binarySearch(int numbers[], int key){

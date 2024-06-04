@@ -1,3 +1,4 @@
+package Arrays;
 public class Arrays9 {
 
     public static void pairs(int numbers[]){
