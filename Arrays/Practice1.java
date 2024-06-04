@@ -16,7 +16,6 @@ public class Practice1 {
         int numbers[] = {90,91,92,93,94,95};
 
         subArray(numbers);
-        
     }
     
 }
